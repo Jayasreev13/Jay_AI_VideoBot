@@ -42,7 +42,7 @@ connectButton.onclick = async () => {
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      source_url: 'https://d-id-public-bucket.s3.amazonaws.com/or-roman.jpg',
+      source_url: 'https://create-images-results.d-id.com/google-oauth2%7C118122142916479891130/upl_wj-NhMgzJ1Wu_l9jzrDGF/image.png',
     }),
   });
 
